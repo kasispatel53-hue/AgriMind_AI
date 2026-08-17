@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment/API keys
+.env
+
+# Large datasets
+data/plant_disease/raw/
+data/plant_disease/
+*.zip
+*.7z
+*.rar
+
+# Large model files
+*.h5
+*.keras
+*.pth
+*.pt
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.env
